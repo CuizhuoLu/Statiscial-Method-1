@@ -1,5 +1,5 @@
 # Statiscial-Method-1
-Learning Outcomes:
+Learning Outcomes:  
 •Reformulate scientific or social problems into questions that can be answered by statistics.  
 •Gather, criticize and pre-process data that is relevant to the statistical analysis.  
 •Specify appropriate formal models (e.g., linear, generalized linear, hierarchical); evaluate their assump-  
